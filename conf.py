@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Self-balancing Car'
-copyright = 'keyestudio'
+project = 'Self-balancing Car for Arduino'
+copyright = 'keyestudio wiki'
 author = 'keyestudio'
 
 # -- General configuration ---------------------------------------------------
